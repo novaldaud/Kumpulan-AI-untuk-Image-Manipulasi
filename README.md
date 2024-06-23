@@ -1,12 +1,11 @@
 # Kumpulan-AI-untuk-Image-Manipulasi
 Kumpulan AI untuk Image Manipulasi
 
-<div align="center">
-     
+
 <!-- ![ai-picture](https://github.com/yousefebrahimi0/1000-AI-collection-tools/blob/main/DALL%C2%B7E-generated-picture.png) -->
     <h1>Kumpulan AI untuk Image Manipulasi</h1>
     
-</div>
+
 
 
 ## Index
