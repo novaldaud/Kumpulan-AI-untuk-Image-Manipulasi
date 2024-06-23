@@ -2,7 +2,8 @@
 Kumpulan AI untuk Image Manipulasi
 
 <div align="center">
-   
+     <img width="150" alt="ai-picture" src="https://github.com/yousefebrahimi0/1000-AI-collection-tools/blob/main/DALL%C2%B7E-generated-picture.png" />
+<!-- ![ai-picture](https://github.com/yousefebrahimi0/1000-AI-collection-tools/blob/main/DALL%C2%B7E-generated-picture.png) -->
     <h1>Kumpulan AI untuk Image Manipulasi</h1>
     
 </div>
